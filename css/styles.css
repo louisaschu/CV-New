@@ -14,11 +14,11 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color:  #C70039 ;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color:  #FFC300 ;
 }
 
 .resume-aside {
@@ -48,4 +48,17 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.italic-text {
+  colour: #900C3F;
+  font-style: italic;
+  text-decoration: underline  #581845;
+}
+
+
+.prata-regular {
+  font-family: "Prata", serif;
+  font-weight: 400;
+  font-style: normal;
 }
