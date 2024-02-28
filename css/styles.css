@@ -14,11 +14,11 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color:  #C70039 ;
+    background-color:  #C70039;
 }
 
 .resume-main {
-	background-color:  #FFC300 ;
+	background-color:  #CD5C5C ;
 }
 
 .resume-aside {
@@ -51,7 +51,7 @@ body {
 }
 
 .italic-text {
-  colour: #900C3F;
+  color: #900C3F;
   font-style: italic;
   text-decoration: underline  #581845;
 }
@@ -61,4 +61,5 @@ body {
   font-family: "Prata", serif;
   font-weight: 400;
   font-style: normal;
+  color: #fff0e0;
 }
