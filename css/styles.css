@@ -29,6 +29,7 @@ body {
 
 .biography-details li::before, .skill-list li::before {
 	content: ">";
+	color: #900C3F;
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -36,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #900C3F;
 }
 
 .biography-details li, .skill-list li {
@@ -62,4 +63,5 @@ body {
   font-weight: 400;
   font-style: normal;
   color: #fff0e0;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
